@@ -1,0 +1,15 @@
+{
+    "name": "jonat/quick_api",
+    "autoload": {
+        "psr-4": {
+            "QuickApi\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "jonno2012",
+            "email": "jonathanrhill78@gmail.com"
+        }
+    ],
+    "require": {}
+}
